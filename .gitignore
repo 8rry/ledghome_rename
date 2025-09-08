@@ -1,0 +1,27 @@
+# 入力・出力フォルダ（GitHubに上げない）
+dl/
+output/
+
+# Python仮想環境
+python/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 環境変数ファイル
+.env
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 一時ファイル
+*.tmp
+*.temp
